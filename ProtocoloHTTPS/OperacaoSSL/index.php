@@ -47,5 +47,4 @@ GDPR - General Data Protection Regulation (Legislação europeia)
 Legislação do estado da Califórnia - EUA
 
 
-
  -->
