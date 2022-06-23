@@ -1,4 +1,5 @@
 <!--
+
 - DNS = Domain Name System
     - Cliente faz um pergunta ao DNS perguntando qual o IP que está relacionado com aquela URL. Após o DNS retornar o IP, começo a trocar dados com o Servidor HTTP.
 - Socket TCP 
