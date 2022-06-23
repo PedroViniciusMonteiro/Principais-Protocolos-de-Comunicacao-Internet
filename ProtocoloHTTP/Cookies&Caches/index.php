@@ -1,5 +1,4 @@
 <!-- 
-
 Protocolo HTTP : Não guarda informações dos clientes
 1 - Stateless 
 2 - Client/Server
