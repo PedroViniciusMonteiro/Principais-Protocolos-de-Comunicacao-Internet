@@ -1,5 +1,5 @@
 # Principais Protocolos de Comunicação na Internet
-Repositório criado para o curso de Principais Protocolos de Comunicação da Internet da DIO
+Repositório criado para o curso de Principais Protocolos de Comunicação na Internet da DIO
 
 ## Links Úteis
 [Digital Innovation One](https://www.dio.me/)
