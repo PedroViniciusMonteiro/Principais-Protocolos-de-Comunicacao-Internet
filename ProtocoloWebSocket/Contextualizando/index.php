@@ -9,4 +9,5 @@ Pois bem, para conter esse possível problema, foi criada o WebSocket, onde o cl
 
 Entretanto todavia, o WebSocket roda "por trás" do HTTP, dando um upgrade por assim dizer.
 
+
 -->
