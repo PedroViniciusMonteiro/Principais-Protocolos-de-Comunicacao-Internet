@@ -1,5 +1,4 @@
 <!--
-
 CRIPTOGRAFIA POR CHAVE -
 
 Você altera a "fechadura da porta" para que só você tenha conhecimento da chave.
