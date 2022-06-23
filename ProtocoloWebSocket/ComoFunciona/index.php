@@ -1,5 +1,4 @@
 <!-- 
-
 WebSocket opera em 2 fases.
 
 - HandShake :
